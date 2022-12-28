@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667061314 source:e:\code blocks\decryption of one time pad\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<sstream>
+	<vector>
+
